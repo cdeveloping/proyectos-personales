@@ -28,3 +28,10 @@ texto en código Morse.</p>
 
 <hr>
 <br>
+
+## Calculadora IMC
+<p>Aplicación que permite calcular en indice de masa corporal</p>
+<p>La aplicación solo necesita que le introduzcamos dos parámetros, la altura en metros y el peso en KG.</p>
+
+<hr><br>
+
