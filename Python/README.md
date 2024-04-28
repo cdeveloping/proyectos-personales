@@ -5,8 +5,8 @@
 <hr>
 <br>
 <ul>
-    <li>Calculadora DNI</li>
-    <li>Traductor código Morse</li>
+    <li><a href = "https://github.com/cdeveloping/proyectos-personales/blob/main/Python/calcular_dni.py">Calculadora DNI</a></li>
+    <li><a href = "https://github.com/cdeveloping/proyectos-personales/blob/main/Python/morse_code.py">Traductor código Morse</a></li>
 </ul>
 <br>
 <hr>
