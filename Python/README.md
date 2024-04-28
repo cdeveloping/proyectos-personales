@@ -12,6 +12,12 @@
 <br>
 <hr>
 
+## Calculadora IMC
+<p>Aplicación que permite calcular en indice de masa corporal</p>
+<p>La aplicación solo necesita que le introduzcamos dos parámetros, la altura en metros y el peso en KG.</p>
+
+<hr><br>
+
 ## Calculadora DNI
 <p>Es una pequeña aplicación que mediante un código realizado en Python, te permite calcular la letra
 de cualquier DNI. </p>
