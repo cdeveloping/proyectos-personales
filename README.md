@@ -6,5 +6,5 @@ más cómoda y rápida.</p>
 
 ## Lenguajes de programación
 <ul>
-    <li>Python</li>
+    <li><a href = "https://github.com/cdeveloping/proyectos-personales/tree/main/Python">Python</a></li>
 </ul>
