@@ -11,7 +11,7 @@
 <br>
 <hr>
 
-##Calculadora DNI
+## Calculadora DNI
 <p>Es una pequeña aplicación que mediante un código realizado en Python, te permite calcular la letra
 de cualquier DNI. </p>
 <p>Para poder realizar el cálculo deberemos introducir en la consola el número completo de nuestro 
@@ -21,7 +21,7 @@ el resultado.</p>
 <hr>
 <br>
 
-##Traductor código Morse
+## Traductor código Morse
 <p>Aplicación que nos permite transformar cualquier texto a código Morse de una manera muy sencilla</p>
 <p>Solo tenemos que introducir el texto y nos devolverá una secuencia de . y - que es como se vería ese
 texto en código Morse.</p> 
