@@ -7,6 +7,7 @@
 <ul>
     <li><a href = "https://github.com/cdeveloping/proyectos-personales/blob/main/Python/calcular_dni.py">Calculadora DNI</a></li>
     <li><a href = "https://github.com/cdeveloping/proyectos-personales/blob/main/Python/morse_code.py">Traductor código Morse</a></li>
+    <li><a href = "https://github.com/cdeveloping/proyectos-personales/blob/main/Python/calculadora_imc.py">Calculadora IMC</a>
 </ul>
 <br>
 <hr>
