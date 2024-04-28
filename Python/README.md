@@ -5,9 +5,9 @@
 <hr>
 <br>
 <ul>
+    <li><a href = "https://github.com/cdeveloping/proyectos-personales/blob/main/Python/calculadora_imc.py">Calculadora IMC</a>
     <li><a href = "https://github.com/cdeveloping/proyectos-personales/blob/main/Python/calcular_dni.py">Calculadora DNI</a></li>
     <li><a href = "https://github.com/cdeveloping/proyectos-personales/blob/main/Python/morse_code.py">Traductor código Morse</a></li>
-    <li><a href = "https://github.com/cdeveloping/proyectos-personales/blob/main/Python/calculadora_imc.py">Calculadora IMC</a>
 </ul>
 <br>
 <hr>
@@ -36,9 +36,4 @@ texto en código Morse.</p>
 <hr>
 <br>
 
-## Calculadora IMC
-<p>Aplicación que permite calcular en indice de masa corporal</p>
-<p>La aplicación solo necesita que le introduzcamos dos parámetros, la altura en metros y el peso en KG.</p>
-
-<hr><br>
 
