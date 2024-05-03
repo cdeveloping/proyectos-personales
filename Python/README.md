@@ -10,12 +10,13 @@
     <li><a href = "https://github.com/cdeveloping/proyectos-personales/blob/main/Python/metodos_cadenas.py">Métodos en cadenas</a></li>
     <li><a href = "https://github.com/cdeveloping/proyectos-personales/blob/main/Python/morse_code.py">Traductor código Morse</a></li>
 </ul>
-<br>
-<hr>
+<br><hr>
 
 ## Calculadora IMC
 <p>Aplicación que permite calcular en indice de masa corporal</p>
 <p>La aplicación solo necesita que le introduzcamos dos parámetros, la altura en metros y el peso en KG.</p>
+
+<p><a href = "https://github.com/cdeveloping/proyectos-personales/blob/main/Python/calculadora_imc.py">Calculadora IMC</a></p>
 
 <hr><br>
 
@@ -26,14 +27,17 @@ de cualquier DNI. </p>
 dni sin la letra, el sistema hara la formula matemática que se usa para su generación y nos devolverá
 el resultado.</p>
 
-<hr>
-<br>
+<p><a href = "https://github.com/cdeveloping/proyectos-personales/blob/main/Python/calcular_dni.py">Calculadora DNI</a></p>
+
+<hr><br>
 
 # Métodos en cadenas
 <p>Pequeña aplicación en la que podremos ver y tabajar con diferentes métodos que les podemos aplicar a las cadenas
 en Python.
 <p>Hay muchos más métodos, pero creo que estos son los principales para comenzar a trabajar con Python, si lo veo
 necesario iré ampliando la aplicación con nuevas funcionalidades.</p>
+
+<p><a href = "https://github.com/cdeveloping/proyectos-personales/blob/main/Python/metodos_cadenas.py">Métodos en cadenas</a></p>
 
 <hr><br>
 
@@ -42,7 +46,8 @@ necesario iré ampliando la aplicación con nuevas funcionalidades.</p>
 <p>Solo tenemos que introducir el texto y nos devolverá una secuencia de . y - que es como se vería ese
 texto en código Morse.</p> 
 
-<hr>
-<br>
+<p><a href = "https://github.com/cdeveloping/proyectos-personales/blob/main/Python/morse_code.py">Traductor código Morse</a></p>
+
+<hr><br>
 
 
