@@ -33,6 +33,17 @@ de contar el número de palabras que componen esa frase.<p>
 
 <hr><br>
 
+## Conversor de temperaturas (Medio)
+<p>Aplicación que transforma de grados Celsius a Farenheit a Kelvin, para realizar los calculos usaremos varias funciones
+lo que hace a la aplicación un poco más compleja pero mejor como práctica de programación.</p>
+<p>Como siempre habrá que mostrar las conversiones por consola.</p>
+
+<p>En una próxima actualización crearemos una aplicación capaz de calcular desde Kelvin y Farenheit a celsius.</p>
+
+<a href = "https://github.com/cdeveloping/proyectos-personales/blob/main/Python/L%C3%B3gica%20de%20programaci%C3%B3n/Ejercicios%20resueltos/conversor_temperaturas.py">Solución Conversor de temperaturas</a>
+
+<hr><br>
+
 ## Ordenar palabras (Básico)
 <p>Debes construir un pequeño script que le solicite al usuario que introduzca tres palabras (o las que tu consideres),
 y que una vez las guardes en una variable, las ordenes de manera alfabética.</p>
