@@ -15,7 +15,19 @@ es que siempre lo intentes por ti mismo antes de pinchar en el enlace y ver el c
 
 <hr><br>
 
-# Calculadora de Fibonacci (Medio)
+## Adivina el número
+<p>Clasico juego en el que tienes que adivinar un número del 1 al 100 en este caso.</p>
+<p>Deberás crear una aplicación que genere un núnero aleatorio entre el 1 y el 100, después el usuario dispondrá de 5
+intentos para intentar averiguar que número es.</p>
+<p>Si no lo consigue en estos cinco intentos, deberá mostrar por consola cual esa el número. </p>
+<p>En el ejemplo que hay no da información alguna sobre el número, si se lo quieres poner más fácil al usuario, puedes
+añadir pistas de si es mayor o menor que el número que haya ido introduciendo.</p>
+
+<a href = "https://github.com/cdeveloping/proyectos-personales/blob/main/Python/L%C3%B3gica%20de%20programaci%C3%B3n/Ejercicios%20resueltos/adivina_el_numero.py">Solución Adivina el número</a>
+
+<hr><br>
+
+## Calculadora de Fibonacci (Medio)
 <p>En este ejercicio deberás pedir al usuario que introduzca un número, y calcular la posición que ocupa en la secuencia
 de Fibonacci.</p>
 <p>Como siempre deberás mostrar el resultado por consola</p>
@@ -42,7 +54,7 @@ lo que hace a la aplicación un poco más compleja pero mejor como práctica de 
 
 <a href = "https://github.com/cdeveloping/proyectos-personales/blob/main/Python/L%C3%B3gica%20de%20programaci%C3%B3n/Ejercicios%20resueltos/conversor_temperaturas.py">Solución Conversor de temperaturas</a>
 
-<hr><br>
+<hr><br>    
 
 ## Ordenar palabras (Básico)
 <p>Debes construir un pequeño script que le solicite al usuario que introduzca tres palabras (o las que tu consideres),
