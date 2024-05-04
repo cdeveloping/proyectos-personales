@@ -15,3 +15,11 @@ de contar el número de palabras que componen esa frase.<p>
 
 <hr><br>
 
+## Ordenar palabras
+<p>Debes construir un pequeño script que le solicite al usuario que introduzca tres palabras (o las que tu consideres),
+y que una vez las guardes en una variable, las ordenes de manera alfabética.</p>
+<p>Una vez realizado esto, se deberá mostrar el resultado por consola.</p>
+
+<a href = "https://github.com/cdeveloping/proyectos-personales/blob/main/Python/L%C3%B3gica%20de%20programaci%C3%B3n/Ejercicios%20resueltos/ordenar_palabras.py">Solución Ordenar Palabras </a>
+
+<hr><br>
