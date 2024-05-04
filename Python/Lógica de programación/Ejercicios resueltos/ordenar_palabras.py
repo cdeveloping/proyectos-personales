@@ -2,7 +2,7 @@
 
 print("*** Bienvenido a la aplicación para ordenar palabras ***")
 
-texto = input("Por favor introduce tres palabras: ")
+texto = input("Por favor introduce tres palabras separadas por espacios: ")
 #Separamos las palabras
 divisor = texto.split()
 
