@@ -13,7 +13,7 @@ def celsius_farenheit(celsius):
     farenheit = (celsius * 9/5) + 32
     return farenheit
 
-#Creamos otra función para realizar los calculos con los datos del usuario
+#Creamos otra función para realizar los calculos con los datos aportados por el usuario
 def conversion():
     celsius = float(input("Por favor introduzca la temperatura a convertir: " ))
 
@@ -21,10 +21,12 @@ def conversion():
     grados_kelvin = celsius_kelvin(celsius)
     grados_farenheit = celsius_farenheit(celsius)
 
+    #Formateamos la salida por pantalla para que todo quede mucho mejor y ahorramos concatenaciones
     print(f"{celsius} grados Celsius son: {grados_farenheit} grados Farenheit.")
     print(f"{celsius} grados Celsius son: {grados_kelvin} grados Kelvin.")
 
 
+#Llamamos a la función para que todo funcione correctamente
 conversion()
 
 
