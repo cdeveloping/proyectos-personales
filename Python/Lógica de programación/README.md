@@ -15,7 +15,7 @@ es que siempre lo intentes por ti mismo antes de pinchar en el enlace y ver el c
 
 <hr><br>
 
-## Adivina el número
+## Adivina el número (Medio)
 <p>Clasico juego en el que tienes que adivinar un número del 1 al 100 en este caso.</p>
 <p>Deberás crear una aplicación que genere un núnero aleatorio entre el 1 y el 100, después el usuario dispondrá de 5
 intentos para intentar averiguar que número es.</p>
