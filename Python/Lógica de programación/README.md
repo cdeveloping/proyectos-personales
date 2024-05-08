@@ -45,6 +45,17 @@ de contar el número de palabras que componen esa frase.<p>
 
 <hr><br>
 
+## Contador de vocales y consonantes (Medio)
+<p>El ejercicio consiste en crear una aplicación que pueda contar las vocales y las consonantes que hay en una frase que 
+el usuario deberá introducir.</p>
+<p>Deberás poner atención a que la aplicación cuente las vocales que puedan contener acentos u otros caractéres especiales
+como la dieresis.</p>
+<p>El número de vocales y consonantes deberán imprimirse por pantalla.</p>
+
+<a href = "https://github.com/cdeveloping/proyectos-personales/blob/main/Python/L%C3%B3gica%20de%20programaci%C3%B3n/Ejercicios%20resueltos/contador_vocales_consonantes.py">Solución contador de vocales y consonantes </a>
+
+<hr><br>
+
 ## Conversor de temperaturas (Medio)
 <p>Aplicación que transforma de grados Celsius a Farenheit a Kelvin, para realizar los calculos usaremos varias funciones
 lo que hace a la aplicación un poco más compleja pero mejor como práctica de programación.</p>
