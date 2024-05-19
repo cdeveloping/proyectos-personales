@@ -76,3 +76,13 @@ y que una vez las guardes en una variable, las ordenes de manera alfabética.</p
 
 <hr><br>
 
+## Piedra, papel o tijera (Básico)
+<p>Realizar una pequeña versión del famoso juego de "Piedra, papel o tijeras", tienes diferentes opciones para crearlo,
+en el ejercicio resuelto que encontrarás he puesto la versión más simple para no complicarlo todavía, pero puedes crearla
+con un bucle While para que el juego no termine hasta que consigas ganar por ejemplo, o añadir las opcioens que creas necesarias</p>
+<p>En la versión resulta jugarás contra el ordenador, pero puedes crear un juego con una versión para dos jugadores, o incluso si lo quieres crear más avanzada que el usuario pueda elegir entre uno o dos jugadores, cuanto más complejidad, mejor práctica sera para ti.</p>
+
+<a href = "https://github.com/cdeveloping/proyectos-personales/blob/main/Python/L%C3%B3gica%20de%20programaci%C3%B3n/Ejercicios%20resueltos/piedra_papel_tijera.py">Solución Piedra, papel o tijera</a>
+
+<hr><br>
+
